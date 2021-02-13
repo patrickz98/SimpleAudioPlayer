@@ -1,2 +1,2 @@
 # SimpleAudioPlayer
-A simple flutter audio player
+A simple audio player for flutter
